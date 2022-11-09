@@ -1,9 +1,3 @@
-### Hi there 👋
-
-<a href="https://app.daily.dev/MiniNinja">
-  <img src="https://github.com/ahmet-ustun/ahmet-ustun/blob/main/devcard.svg" width="400" alt="Ahmet Ustun's Dev Card"/>
-</a>
-
 # Hello there 👋
 
 <div align="left">
@@ -15,7 +9,7 @@
   </a>
   <a href="https://www.linkedin.com/in/ombratteng/">
     <img
-      src="https://img.shields.io/static/v1?logo=linkedin&style=flat-square&color=0072b1&label=LinkedIn&message=%E2%98%86"
+      src="https://img.shields.io/static/v1?logo=linkedin&style=flat-square&color=0072b1&label=LinkedIn"
       alt="LinkedIn"
     />
   </a>
