@@ -25,7 +25,6 @@
       alt="Ahmet Ustun's Dev.to Profile"
     />
   </a>
-  <hr/>
   <a href="https://app.daily.dev/MiniNinja" target="_blank">
     <img 
       src="https://github.com/ahmet-ustun/ahmet-ustun/blob/main/devcard.svg" 
