@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-<a href="https://app.daily.dev/MiniNinja"><img src="https://api.daily.dev/devcards/24f53189ef314ee2970cefec30deeb87.png?r=uyg" width="400" alt="Ahmet Ustun's Dev Card"/></a>
+<a href="https://app.daily.dev/MiniNinja">
+  <img src="https://github.com/ahmet-ustun/ahmet-ustun/blob/main/devcard.svg" width="400" alt="Ahmet Ustun's Dev Card"/>
+</a>
 
 <!--
 **ahmet-ustun/ahmet-ustun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
