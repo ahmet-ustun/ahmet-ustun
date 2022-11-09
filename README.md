@@ -1,13 +1,13 @@
 # Hello there 👋
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/ahmet-ustun/" target="_blank">
+  <a href="https://www.linkedin.com/in/ahmet-ustun/" target="_blank" rel="noopener noreferrer">
     <img
       src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
       alt="Ahmet Ustun's LinkedIn Profile"
     />
   </a>
-  <a href="https://app.daily.dev/MiniNinja" target="_blank">
+  <a href="https://app.daily.dev/MiniNinja" target="_blank" rel="noopener noreferrer">
     <img 
       src="https://github.com/ahmet-ustun/ahmet-ustun/blob/main/devcard.svg" 
       width="300"
