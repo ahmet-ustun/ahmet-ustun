@@ -11,6 +11,8 @@
   </a>
 </div>
 
-I am Ahmet and you are visiting my GitHub profile.
+## I am Ahmet Ustun
 
-I hope that you will find some interesting things here.
+- Junior WebUI (React) Developer at [SoftServe](https://www.softserveinc.com/en-us)
+
+- Loves a freshly brewed cup of coffee
